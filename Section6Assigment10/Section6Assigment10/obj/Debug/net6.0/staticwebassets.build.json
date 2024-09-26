@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "9ylzMfkS4g5bs60J45kzQxQfN3X//kyLFOJnOAJ1Z84=",
+  "Source": "Section6Assigment10",
+  "BasePath": "_content/Section6Assigment10",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Section6Assigment10\\wwwroot",
+      "Source": "Section6Assigment10",
+      "ContentRoot": "C:\\source\\repo\\ASP.NETCore8\\Section6Assigment10\\Section6Assigment10\\wwwroot\\",
+      "BasePath": "_content/Section6Assigment10",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\source\\repo\\ASP.NETCore8\\Section6Assigment10\\Section6Assigment10\\wwwroot\\statement.pdf",
+      "SourceId": "Section6Assigment10",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\source\\repo\\ASP.NETCore8\\Section6Assigment10\\Section6Assigment10\\wwwroot\\",
+      "BasePath": "_content/Section6Assigment10",
+      "RelativePath": "statement.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\statement.pdf"
+    }
+  ]
+}

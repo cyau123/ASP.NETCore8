@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\source\\repo\\ASP.NETCore8\\Section6Assigment10\\Section6Assigment10\\wwwroot\\statement.pdf",
+      "PackagePath": "staticwebassets\\statement.pdf"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Section6Assigment10.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Section6Assigment10.props",
+      "PackagePath": "build\\Section6Assigment10.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Section6Assigment10.props",
+      "PackagePath": "buildMultiTargeting\\Section6Assigment10.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Section6Assigment10.props",
+      "PackagePath": "buildTransitive\\Section6Assigment10.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
