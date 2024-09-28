@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\source\\repo\\ASP.NETCore8\\Section7Assignment12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64E65CA5-F613-4E45-B5A0-112D429F92E4}|Section7Assignment12\\Section7Assignment12.csproj|c:\\source\\repo\\asp.netcore8\\section7assignment12\\section7assignment12\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64E65CA5-F613-4E45-B5A0-112D429F92E4}|Section7Assignment12\\Section7Assignment12.csproj|solutionrelative:section7assignment12\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64E65CA5-F613-4E45-B5A0-112D429F92E4}|Section7Assignment12\\Section7Assignment12.csproj|c:\\source\\repo\\asp.netcore8\\section7assignment12\\section7assignment12\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64E65CA5-F613-4E45-B5A0-112D429F92E4}|Section7Assignment12\\Section7Assignment12.csproj|solutionrelative:section7assignment12\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64E65CA5-F613-4E45-B5A0-112D429F92E4}|Section7Assignment12\\Section7Assignment12.csproj|c:\\source\\repo\\asp.netcore8\\section7assignment12\\section7assignment12\\customvalidators\\invoicepricevalidatorattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64E65CA5-F613-4E45-B5A0-112D429F92E4}|Section7Assignment12\\Section7Assignment12.csproj|solutionrelative:section7assignment12\\customvalidators\\invoicepricevalidatorattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64E65CA5-F613-4E45-B5A0-112D429F92E4}|Section7Assignment12\\Section7Assignment12.csproj|c:\\source\\repo\\asp.netcore8\\section7assignment12\\section7assignment12\\customvalidators\\minimumdatevalidatorattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64E65CA5-F613-4E45-B5A0-112D429F92E4}|Section7Assignment12\\Section7Assignment12.csproj|solutionrelative:section7assignment12\\customvalidators\\minimumdatevalidatorattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64E65CA5-F613-4E45-B5A0-112D429F92E4}|Section7Assignment12\\Section7Assignment12.csproj|c:\\source\\repo\\asp.netcore8\\section7assignment12\\section7assignment12\\customvalidators\\productslistvalidatorattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64E65CA5-F613-4E45-B5A0-112D429F92E4}|Section7Assignment12\\Section7Assignment12.csproj|solutionrelative:section7assignment12\\customvalidators\\productslistvalidatorattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64E65CA5-F613-4E45-B5A0-112D429F92E4}|Section7Assignment12\\Section7Assignment12.csproj|c:\\source\\repo\\asp.netcore8\\section7assignment12\\section7assignment12\\section7assignment12.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{64E65CA5-F613-4E45-B5A0-112D429F92E4}|Section7Assignment12\\Section7Assignment12.csproj|solutionrelative:section7assignment12\\section7assignment12.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64E65CA5-F613-4E45-B5A0-112D429F92E4}|Section7Assignment12\\Section7Assignment12.csproj|c:\\source\\repo\\asp.netcore8\\section7assignment12\\section7assignment12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64E65CA5-F613-4E45-B5A0-112D429F92E4}|Section7Assignment12\\Section7Assignment12.csproj|solutionrelative:section7assignment12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64E65CA5-F613-4E45-B5A0-112D429F92E4}|Section7Assignment12\\Section7Assignment12.csproj|c:\\source\\repo\\asp.netcore8\\section7assignment12\\section7assignment12\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64E65CA5-F613-4E45-B5A0-112D429F92E4}|Section7Assignment12\\Section7Assignment12.csproj|solutionrelative:section7assignment12\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductsListValidatorAttribute.cs",
+              "DocumentMoniker": "C:\\source\\repo\\ASP.NETCore8\\Section7Assignment12\\Section7Assignment12\\CustomValidators\\ProductsListValidatorAttribute.cs",
+              "RelativeDocumentMoniker": "Section7Assignment12\\CustomValidators\\ProductsListValidatorAttribute.cs",
+              "ToolTip": "C:\\source\\repo\\ASP.NETCore8\\Section7Assignment12\\Section7Assignment12\\CustomValidators\\ProductsListValidatorAttribute.cs",
+              "RelativeToolTip": "Section7Assignment12\\CustomValidators\\ProductsListValidatorAttribute.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T13:46:30.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MinimumDateValidatorAttribute.cs",
+              "DocumentMoniker": "C:\\source\\repo\\ASP.NETCore8\\Section7Assignment12\\Section7Assignment12\\CustomValidators\\MinimumDateValidatorAttribute.cs",
+              "RelativeDocumentMoniker": "Section7Assignment12\\CustomValidators\\MinimumDateValidatorAttribute.cs",
+              "ToolTip": "C:\\source\\repo\\ASP.NETCore8\\Section7Assignment12\\Section7Assignment12\\CustomValidators\\MinimumDateValidatorAttribute.cs",
+              "RelativeToolTip": "Section7Assignment12\\CustomValidators\\MinimumDateValidatorAttribute.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T13:44:06.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InvoicePriceValidatorAttribute.cs",
+              "DocumentMoniker": "C:\\source\\repo\\ASP.NETCore8\\Section7Assignment12\\Section7Assignment12\\CustomValidators\\InvoicePriceValidatorAttribute.cs",
+              "RelativeDocumentMoniker": "Section7Assignment12\\CustomValidators\\InvoicePriceValidatorAttribute.cs",
+              "ToolTip": "C:\\source\\repo\\ASP.NETCore8\\Section7Assignment12\\Section7Assignment12\\CustomValidators\\InvoicePriceValidatorAttribute.cs",
+              "RelativeToolTip": "Section7Assignment12\\CustomValidators\\InvoicePriceValidatorAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T13:31:22.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\source\\repo\\ASP.NETCore8\\Section7Assignment12\\Section7Assignment12\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Section7Assignment12\\Models\\Product.cs",
+              "ToolTip": "C:\\source\\repo\\ASP.NETCore8\\Section7Assignment12\\Section7Assignment12\\Models\\Product.cs",
+              "RelativeToolTip": "Section7Assignment12\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T13:07:20.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\source\\repo\\ASP.NETCore8\\Section7Assignment12\\Section7Assignment12\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Section7Assignment12\\Models\\Order.cs",
+              "ToolTip": "C:\\source\\repo\\ASP.NETCore8\\Section7Assignment12\\Section7Assignment12\\Models\\Order.cs",
+              "RelativeToolTip": "Section7Assignment12\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T13:07:13.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\source\\repo\\ASP.NETCore8\\Section7Assignment12\\Section7Assignment12\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Section7Assignment12\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\source\\repo\\ASP.NETCore8\\Section7Assignment12\\Section7Assignment12\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Section7Assignment12\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T13:06:38.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Section7Assignment12",
+              "DocumentMoniker": "C:\\source\\repo\\ASP.NETCore8\\Section7Assignment12\\Section7Assignment12\\Section7Assignment12.csproj",
+              "RelativeDocumentMoniker": "Section7Assignment12\\Section7Assignment12.csproj",
+              "ToolTip": "C:\\source\\repo\\ASP.NETCore8\\Section7Assignment12\\Section7Assignment12\\Section7Assignment12.csproj",
+              "RelativeToolTip": "Section7Assignment12\\Section7Assignment12.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-28T13:06:11.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\source\\repo\\ASP.NETCore8\\Section7Assignment12\\Section7Assignment12\\Program.cs",
+              "RelativeDocumentMoniker": "Section7Assignment12\\Program.cs",
+              "ToolTip": "C:\\source\\repo\\ASP.NETCore8\\Section7Assignment12\\Section7Assignment12\\Program.cs",
+              "RelativeToolTip": "Section7Assignment12\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T13:06:02.204Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
