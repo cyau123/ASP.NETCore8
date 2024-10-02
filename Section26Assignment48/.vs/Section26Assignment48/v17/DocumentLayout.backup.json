@@ -1,0 +1,707 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\source\\repo\\ASP.NETCore8\\Section26Assignment48\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5549A13-5650-46DE-912C-2D904EDDB5E1}|Section26Assignment48\\Section26Assignment48.csproj|c:\\source\\repo\\asp.netcore8\\section26assignment48\\section26assignment48\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A5549A13-5650-46DE-912C-2D904EDDB5E1}|Section26Assignment48\\Section26Assignment48.csproj|solutionrelative:section26assignment48\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5549A13-5650-46DE-912C-2D904EDDB5E1}|Section26Assignment48\\Section26Assignment48.csproj|c:\\source\\repo\\asp.netcore8\\section26assignment48\\section26assignment48\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A5549A13-5650-46DE-912C-2D904EDDB5E1}|Section26Assignment48\\Section26Assignment48.csproj|solutionrelative:section26assignment48\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5549A13-5650-46DE-912C-2D904EDDB5E1}|Section26Assignment48\\Section26Assignment48.csproj|c:\\source\\repo\\asp.netcore8\\section26assignment48\\section26assignment48\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5549A13-5650-46DE-912C-2D904EDDB5E1}|Section26Assignment48\\Section26Assignment48.csproj|solutionrelative:section26assignment48\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5549A13-5650-46DE-912C-2D904EDDB5E1}|Section26Assignment48\\Section26Assignment48.csproj|c:\\source\\repo\\asp.netcore8\\section26assignment48\\section26assignment48\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5549A13-5650-46DE-912C-2D904EDDB5E1}|Section26Assignment48\\Section26Assignment48.csproj|solutionrelative:section26assignment48\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9FEC329-C718-4A30-B5A6-B350C69C9F2B}|Services\\Services.csproj|c:\\source\\repo\\asp.netcore8\\section26assignment48\\services\\orderitems\\orderitemsadderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9FEC329-C718-4A30-B5A6-B350C69C9F2B}|Services\\Services.csproj|solutionrelative:services\\orderitems\\orderitemsadderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5549A13-5650-46DE-912C-2D904EDDB5E1}|Section26Assignment48\\Section26Assignment48.csproj|c:\\source\\repo\\asp.netcore8\\section26assignment48\\section26assignment48\\controllers\\orderitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5549A13-5650-46DE-912C-2D904EDDB5E1}|Section26Assignment48\\Section26Assignment48.csproj|solutionrelative:section26assignment48\\controllers\\orderitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F51222CA-5A6D-453E-A7E1-6FB7A97B42C6}|ServiceContracts\\ServiceContracts.csproj|c:\\source\\repo\\asp.netcore8\\section26assignment48\\servicecontracts\\orderitems\\iorderitemsadderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51222CA-5A6D-453E-A7E1-6FB7A97B42C6}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\orderitems\\iorderitemsadderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5549A13-5650-46DE-912C-2D904EDDB5E1}|Section26Assignment48\\Section26Assignment48.csproj|c:\\source\\repo\\asp.netcore8\\section26assignment48\\section26assignment48\\controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5549A13-5650-46DE-912C-2D904EDDB5E1}|Section26Assignment48\\Section26Assignment48.csproj|solutionrelative:section26assignment48\\controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5549A13-5650-46DE-912C-2D904EDDB5E1}|Section26Assignment48\\Section26Assignment48.csproj|c:\\source\\repo\\asp.netcore8\\section26assignment48\\section26assignment48\\section26assignment48.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A5549A13-5650-46DE-912C-2D904EDDB5E1}|Section26Assignment48\\Section26Assignment48.csproj|solutionrelative:section26assignment48\\section26assignment48.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5549A13-5650-46DE-912C-2D904EDDB5E1}|Section26Assignment48\\Section26Assignment48.csproj|c:\\source\\repo\\asp.netcore8\\section26assignment48\\section26assignment48\\section26assignment48.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{A5549A13-5650-46DE-912C-2D904EDDB5E1}|Section26Assignment48\\Section26Assignment48.csproj|solutionrelative:section26assignment48\\section26assignment48.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9FEC329-C718-4A30-B5A6-B350C69C9F2B}|Services\\Services.csproj|c:\\source\\repo\\asp.netcore8\\section26assignment48\\services\\orders\\ordersgetterservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9FEC329-C718-4A30-B5A6-B350C69C9F2B}|Services\\Services.csproj|solutionrelative:services\\orders\\ordersgetterservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9FEC329-C718-4A30-B5A6-B350C69C9F2B}|Services\\Services.csproj|c:\\source\\repo\\asp.netcore8\\section26assignment48\\services\\orderitems\\orderitemsgetterservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9FEC329-C718-4A30-B5A6-B350C69C9F2B}|Services\\Services.csproj|solutionrelative:services\\orderitems\\orderitemsgetterservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9263523A-BC7D-4E70-9679-020CFA50CD1C}|Repositories\\Repositories.csproj|c:\\source\\repo\\asp.netcore8\\section26assignment48\\repositories\\orderitemsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9263523A-BC7D-4E70-9679-020CFA50CD1C}|Repositories\\Repositories.csproj|solutionrelative:repositories\\orderitemsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9FEC329-C718-4A30-B5A6-B350C69C9F2B}|Services\\Services.csproj|c:\\source\\repo\\asp.netcore8\\section26assignment48\\services\\orders\\ordersfilterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9FEC329-C718-4A30-B5A6-B350C69C9F2B}|Services\\Services.csproj|solutionrelative:services\\orders\\ordersfilterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9FEC329-C718-4A30-B5A6-B350C69C9F2B}|Services\\Services.csproj|c:\\source\\repo\\asp.netcore8\\section26assignment48\\services\\orders\\ordersupdaterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9FEC329-C718-4A30-B5A6-B350C69C9F2B}|Services\\Services.csproj|solutionrelative:services\\orders\\ordersupdaterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F51222CA-5A6D-453E-A7E1-6FB7A97B42C6}|ServiceContracts\\ServiceContracts.csproj|c:\\source\\repo\\asp.netcore8\\section26assignment48\\servicecontracts\\orders\\iordersupdaterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51222CA-5A6D-453E-A7E1-6FB7A97B42C6}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\orders\\iordersupdaterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9FEC329-C718-4A30-B5A6-B350C69C9F2B}|Services\\Services.csproj|c:\\source\\repo\\asp.netcore8\\section26assignment48\\services\\orders\\ordersadderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9FEC329-C718-4A30-B5A6-B350C69C9F2B}|Services\\Services.csproj|solutionrelative:services\\orders\\ordersadderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9FEC329-C718-4A30-B5A6-B350C69C9F2B}|Services\\Services.csproj|c:\\source\\repo\\asp.netcore8\\section26assignment48\\services\\orders\\ordersdeleterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9FEC329-C718-4A30-B5A6-B350C69C9F2B}|Services\\Services.csproj|solutionrelative:services\\orders\\ordersdeleterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9263523A-BC7D-4E70-9679-020CFA50CD1C}|Repositories\\Repositories.csproj|c:\\source\\repo\\asp.netcore8\\section26assignment48\\repositories\\ordersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9263523A-BC7D-4E70-9679-020CFA50CD1C}|Repositories\\Repositories.csproj|solutionrelative:repositories\\ordersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D43977-2894-4771-B5B3-A245189B7AD7}|RepositoryContracts\\RepositoryContracts.csproj|c:\\source\\repo\\asp.netcore8\\section26assignment48\\repositorycontracts\\iordersrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D43977-2894-4771-B5B3-A245189B7AD7}|RepositoryContracts\\RepositoryContracts.csproj|solutionrelative:repositorycontracts\\iordersrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F51222CA-5A6D-453E-A7E1-6FB7A97B42C6}|ServiceContracts\\ServiceContracts.csproj|c:\\source\\repo\\asp.netcore8\\section26assignment48\\servicecontracts\\dto\\orderaddrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51222CA-5A6D-453E-A7E1-6FB7A97B42C6}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\dto\\orderaddrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F51222CA-5A6D-453E-A7E1-6FB7A97B42C6}|ServiceContracts\\ServiceContracts.csproj|c:\\source\\repo\\asp.netcore8\\section26assignment48\\servicecontracts\\dto\\orderitemresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51222CA-5A6D-453E-A7E1-6FB7A97B42C6}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\dto\\orderitemresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F51222CA-5A6D-453E-A7E1-6FB7A97B42C6}|ServiceContracts\\ServiceContracts.csproj|c:\\source\\repo\\asp.netcore8\\section26assignment48\\servicecontracts\\dto\\orderitemaddrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51222CA-5A6D-453E-A7E1-6FB7A97B42C6}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\dto\\orderitemaddrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D43977-2894-4771-B5B3-A245189B7AD7}|RepositoryContracts\\RepositoryContracts.csproj|c:\\source\\repo\\asp.netcore8\\section26assignment48\\repositorycontracts\\iorderitemsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D43977-2894-4771-B5B3-A245189B7AD7}|RepositoryContracts\\RepositoryContracts.csproj|solutionrelative:repositorycontracts\\iorderitemsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9FEC329-C718-4A30-B5A6-B350C69C9F2B}|Services\\Services.csproj|c:\\source\\repo\\asp.netcore8\\section26assignment48\\services\\orderitems\\orderitemsdeleterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9FEC329-C718-4A30-B5A6-B350C69C9F2B}|Services\\Services.csproj|solutionrelative:services\\orderitems\\orderitemsdeleterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9FEC329-C718-4A30-B5A6-B350C69C9F2B}|Services\\Services.csproj|c:\\source\\repo\\asp.netcore8\\section26assignment48\\services\\orderitems\\orderitemsupdaterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9FEC329-C718-4A30-B5A6-B350C69C9F2B}|Services\\Services.csproj|solutionrelative:services\\orderitems\\orderitemsupdaterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F51222CA-5A6D-453E-A7E1-6FB7A97B42C6}|ServiceContracts\\ServiceContracts.csproj|c:\\source\\repo\\asp.netcore8\\section26assignment48\\servicecontracts\\orderitems\\iorderitemsupdaterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51222CA-5A6D-453E-A7E1-6FB7A97B42C6}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\orderitems\\iorderitemsupdaterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F51222CA-5A6D-453E-A7E1-6FB7A97B42C6}|ServiceContracts\\ServiceContracts.csproj|c:\\source\\repo\\asp.netcore8\\section26assignment48\\servicecontracts\\orderitems\\iorderitemsgetterservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51222CA-5A6D-453E-A7E1-6FB7A97B42C6}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\orderitems\\iorderitemsgetterservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F51222CA-5A6D-453E-A7E1-6FB7A97B42C6}|ServiceContracts\\ServiceContracts.csproj|c:\\source\\repo\\asp.netcore8\\section26assignment48\\servicecontracts\\orderitems\\iorderitemsdeleterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51222CA-5A6D-453E-A7E1-6FB7A97B42C6}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\orderitems\\iorderitemsdeleterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F51222CA-5A6D-453E-A7E1-6FB7A97B42C6}|ServiceContracts\\ServiceContracts.csproj|c:\\source\\repo\\asp.netcore8\\section26assignment48\\servicecontracts\\orders\\iordersadderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51222CA-5A6D-453E-A7E1-6FB7A97B42C6}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\orders\\iordersadderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F51222CA-5A6D-453E-A7E1-6FB7A97B42C6}|ServiceContracts\\ServiceContracts.csproj|c:\\source\\repo\\asp.netcore8\\section26assignment48\\servicecontracts\\orders\\iordersdeleterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51222CA-5A6D-453E-A7E1-6FB7A97B42C6}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\orders\\iordersdeleterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F51222CA-5A6D-453E-A7E1-6FB7A97B42C6}|ServiceContracts\\ServiceContracts.csproj|c:\\source\\repo\\asp.netcore8\\section26assignment48\\servicecontracts\\dto\\orderupdaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51222CA-5A6D-453E-A7E1-6FB7A97B42C6}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\dto\\orderupdaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F51222CA-5A6D-453E-A7E1-6FB7A97B42C6}|ServiceContracts\\ServiceContracts.csproj|c:\\source\\repo\\asp.netcore8\\section26assignment48\\servicecontracts\\dto\\orderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51222CA-5A6D-453E-A7E1-6FB7A97B42C6}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\dto\\orderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA42EE42-DDFD-4DB4-B809-F4D77F3D49D7}|Entities\\Entities.csproj|c:\\source\\repo\\asp.netcore8\\section26assignment48\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA42EE42-DDFD-4DB4-B809-F4D77F3D49D7}|Entities\\Entities.csproj|solutionrelative:entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F51222CA-5A6D-453E-A7E1-6FB7A97B42C6}|ServiceContracts\\ServiceContracts.csproj|c:\\source\\repo\\asp.netcore8\\section26assignment48\\servicecontracts\\orders\\iordersgetterservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51222CA-5A6D-453E-A7E1-6FB7A97B42C6}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\orders\\iordersgetterservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F51222CA-5A6D-453E-A7E1-6FB7A97B42C6}|ServiceContracts\\ServiceContracts.csproj|c:\\source\\repo\\asp.netcore8\\section26assignment48\\servicecontracts\\orders\\iordersfilterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51222CA-5A6D-453E-A7E1-6FB7A97B42C6}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\orders\\iordersfilterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F51222CA-5A6D-453E-A7E1-6FB7A97B42C6}|ServiceContracts\\ServiceContracts.csproj|c:\\source\\repo\\asp.netcore8\\section26assignment48\\servicecontracts\\dto\\orderitemupdaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51222CA-5A6D-453E-A7E1-6FB7A97B42C6}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\dto\\orderitemupdaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA42EE42-DDFD-4DB4-B809-F4D77F3D49D7}|Entities\\Entities.csproj|c:\\source\\repo\\asp.netcore8\\section26assignment48\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA42EE42-DDFD-4DB4-B809-F4D77F3D49D7}|Entities\\Entities.csproj|solutionrelative:entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F51222CA-5A6D-453E-A7E1-6FB7A97B42C6}|ServiceContracts\\ServiceContracts.csproj|c:\\source\\repo\\asp.netcore8\\section26assignment48\\servicecontracts\\servicecontracts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F51222CA-5A6D-453E-A7E1-6FB7A97B42C6}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\servicecontracts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA42EE42-DDFD-4DB4-B809-F4D77F3D49D7}|Entities\\Entities.csproj|c:\\source\\repo\\asp.netcore8\\section26assignment48\\entities\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA42EE42-DDFD-4DB4-B809-F4D77F3D49D7}|Entities\\Entities.csproj|solutionrelative:entities\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\source\\repo\\ASP.NETCore8\\Section26Assignment48\\Section26Assignment48\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Section26Assignment48\\appsettings.Development.json",
+              "ToolTip": "C:\\source\\repo\\ASP.NETCore8\\Section26Assignment48\\Section26Assignment48\\appsettings.Development.json",
+              "RelativeToolTip": "Section26Assignment48\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-02T20:18:06.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\source\\repo\\ASP.NETCore8\\Section26Assignment48\\Section26Assignment48\\appsettings.json",
+              "RelativeDocumentMoniker": "Section26Assignment48\\appsettings.json",
+              "ToolTip": "C:\\source\\repo\\ASP.NETCore8\\Section26Assignment48\\Section26Assignment48\\appsettings.json",
+              "RelativeToolTip": "Section26Assignment48\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-02T20:17:40.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\source\\repo\\ASP.NETCore8\\Section26Assignment48\\Section26Assignment48\\Program.cs",
+              "RelativeDocumentMoniker": "Section26Assignment48\\Program.cs",
+              "ToolTip": "C:\\source\\repo\\ASP.NETCore8\\Section26Assignment48\\Section26Assignment48\\Program.cs",
+              "RelativeToolTip": "Section26Assignment48\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T20:14:47.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderItemsController.cs",
+              "DocumentMoniker": "C:\\source\\repo\\ASP.NETCore8\\Section26Assignment48\\Section26Assignment48\\Controllers\\OrderItemsController.cs",
+              "RelativeDocumentMoniker": "Section26Assignment48\\Controllers\\OrderItemsController.cs",
+              "ToolTip": "C:\\source\\repo\\ASP.NETCore8\\Section26Assignment48\\Section26Assignment48\\Controllers\\OrderItemsController.cs",
+              "RelativeToolTip": "Section26Assignment48\\Controllers\\OrderItemsController.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAkwGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T17:02:48.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderItemsAdderService.cs",
+              "DocumentMoniker": "C:\\source\\repo\\ASP.NETCore8\\Section26Assignment48\\Services\\OrderItems\\OrderItemsAdderService.cs",
+              "RelativeDocumentMoniker": "Services\\OrderItems\\OrderItemsAdderService.cs",
+              "ToolTip": "C:\\source\\repo\\ASP.NETCore8\\Section26Assignment48\\Services\\OrderItems\\OrderItemsAdderService.cs",
+              "RelativeToolTip": "Services\\OrderItems\\OrderItemsAdderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T19:25:59.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\source\\repo\\ASP.NETCore8\\Section26Assignment48\\Section26Assignment48\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Section26Assignment48\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\source\\repo\\ASP.NETCore8\\Section26Assignment48\\Section26Assignment48\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Section26Assignment48\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T17:03:02.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IOrderItemsAdderService.cs",
+              "DocumentMoniker": "C:\\source\\repo\\ASP.NETCore8\\Section26Assignment48\\ServiceContracts\\OrderItems\\IOrderItemsAdderService.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\OrderItems\\IOrderItemsAdderService.cs",
+              "ToolTip": "C:\\source\\repo\\ASP.NETCore8\\Section26Assignment48\\ServiceContracts\\OrderItems\\IOrderItemsAdderService.cs",
+              "RelativeToolTip": "ServiceContracts\\OrderItems\\IOrderItemsAdderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T19:01:08.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ErrorController.cs",
+              "DocumentMoniker": "C:\\source\\repo\\ASP.NETCore8\\Section26Assignment48\\Section26Assignment48\\Controllers\\ErrorController.cs",
+              "RelativeDocumentMoniker": "Section26Assignment48\\Controllers\\ErrorController.cs",
+              "ToolTip": "C:\\source\\repo\\ASP.NETCore8\\Section26Assignment48\\Section26Assignment48\\Controllers\\ErrorController.cs",
+              "RelativeToolTip": "Section26Assignment48\\Controllers\\ErrorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T17:02:25.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Section26Assignment48",
+              "DocumentMoniker": "C:\\source\\repo\\ASP.NETCore8\\Section26Assignment48\\Section26Assignment48\\Section26Assignment48.csproj",
+              "RelativeDocumentMoniker": "Section26Assignment48\\Section26Assignment48.csproj",
+              "ToolTip": "C:\\source\\repo\\ASP.NETCore8\\Section26Assignment48\\Section26Assignment48\\Section26Assignment48.csproj",
+              "RelativeToolTip": "Section26Assignment48\\Section26Assignment48.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-02T20:07:43.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Section26Assignment48",
+              "DocumentMoniker": "C:\\source\\repo\\ASP.NETCore8\\Section26Assignment48\\Section26Assignment48\\Section26Assignment48.csproj",
+              "RelativeDocumentMoniker": "Section26Assignment48\\Section26Assignment48.csproj",
+              "ToolTip": "C:\\source\\repo\\ASP.NETCore8\\Section26Assignment48\\Section26Assignment48\\Section26Assignment48.csproj",
+              "RelativeToolTip": "Section26Assignment48\\Section26Assignment48.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-02T20:09:03.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrdersGetterService .cs",
+              "DocumentMoniker": "C:\\source\\repo\\ASP.NETCore8\\Section26Assignment48\\Services\\Orders\\OrdersGetterService .cs",
+              "RelativeDocumentMoniker": "Services\\Orders\\OrdersGetterService .cs",
+              "ToolTip": "C:\\source\\repo\\ASP.NETCore8\\Section26Assignment48\\Services\\Orders\\OrdersGetterService .cs",
+              "RelativeToolTip": "Services\\Orders\\OrdersGetterService .cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAmwDMAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T20:00:15.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrdersFilterService.cs",
+              "DocumentMoniker": "C:\\source\\repo\\ASP.NETCore8\\Section26Assignment48\\Services\\Orders\\OrdersFilterService.cs",
+              "RelativeDocumentMoniker": "Services\\Orders\\OrdersFilterService.cs",
+              "ToolTip": "C:\\source\\repo\\ASP.NETCore8\\Section26Assignment48\\Services\\Orders\\OrdersFilterService.cs",
+              "RelativeToolTip": "Services\\Orders\\OrdersFilterService.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAASwCEAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T19:52:33.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OrdersUpdaterService.cs",
+              "DocumentMoniker": "C:\\source\\repo\\ASP.NETCore8\\Section26Assignment48\\Services\\Orders\\OrdersUpdaterService.cs",
+              "RelativeDocumentMoniker": "Services\\Orders\\OrdersUpdaterService.cs",
+              "ToolTip": "C:\\source\\repo\\ASP.NETCore8\\Section26Assignment48\\Services\\Orders\\OrdersUpdaterService.cs",
+              "RelativeToolTip": "Services\\Orders\\OrdersUpdaterService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T19:58:10.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OrdersAdderService.cs",
+              "DocumentMoniker": "C:\\source\\repo\\ASP.NETCore8\\Section26Assignment48\\Services\\Orders\\OrdersAdderService.cs",
+              "RelativeDocumentMoniker": "Services\\Orders\\OrdersAdderService.cs",
+              "ToolTip": "C:\\source\\repo\\ASP.NETCore8\\Section26Assignment48\\Services\\Orders\\OrdersAdderService.cs",
+              "RelativeToolTip": "Services\\Orders\\OrdersAdderService.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAqwC0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T19:29:04.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OrdersDeleterService.cs",
+              "DocumentMoniker": "C:\\source\\repo\\ASP.NETCore8\\Section26Assignment48\\Services\\Orders\\OrdersDeleterService.cs",
+              "RelativeDocumentMoniker": "Services\\Orders\\OrdersDeleterService.cs",
+              "ToolTip": "C:\\source\\repo\\ASP.NETCore8\\Section26Assignment48\\Services\\Orders\\OrdersDeleterService.cs",
+              "RelativeToolTip": "Services\\Orders\\OrdersDeleterService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAqwCAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T19:32:11.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderItemsGetterService .cs",
+              "DocumentMoniker": "C:\\source\\repo\\ASP.NETCore8\\Section26Assignment48\\Services\\OrderItems\\OrderItemsGetterService .cs",
+              "RelativeDocumentMoniker": "Services\\OrderItems\\OrderItemsGetterService .cs",
+              "ToolTip": "C:\\source\\repo\\ASP.NETCore8\\Section26Assignment48\\Services\\OrderItems\\OrderItemsGetterService .cs",
+              "RelativeToolTip": "Services\\OrderItems\\OrderItemsGetterService .cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAApwCwAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T19:27:13.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderItemsRepository.cs",
+              "DocumentMoniker": "C:\\source\\repo\\ASP.NETCore8\\Section26Assignment48\\Repositories\\OrderItemsRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\OrderItemsRepository.cs",
+              "ToolTip": "C:\\source\\repo\\ASP.NETCore8\\Section26Assignment48\\Repositories\\OrderItemsRepository.cs",
+              "RelativeToolTip": "Repositories\\OrderItemsRepository.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAApwD0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T17:52:13.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OrdersRepository.cs",
+              "DocumentMoniker": "C:\\source\\repo\\ASP.NETCore8\\Section26Assignment48\\Repositories\\OrdersRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\OrdersRepository.cs",
+              "ToolTip": "C:\\source\\repo\\ASP.NETCore8\\Section26Assignment48\\Repositories\\OrdersRepository.cs",
+              "RelativeToolTip": "Repositories\\OrdersRepository.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAcwHsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T17:51:51.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IOrdersUpdaterService.cs",
+              "DocumentMoniker": "C:\\source\\repo\\ASP.NETCore8\\Section26Assignment48\\ServiceContracts\\Orders\\IOrdersUpdaterService.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\Orders\\IOrdersUpdaterService.cs",
+              "ToolTip": "C:\\source\\repo\\ASP.NETCore8\\Section26Assignment48\\ServiceContracts\\Orders\\IOrdersUpdaterService.cs",
+              "RelativeToolTip": "ServiceContracts\\Orders\\IOrdersUpdaterService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T19:03:07.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "OrderAddRequest.cs",
+              "DocumentMoniker": "C:\\source\\repo\\ASP.NETCore8\\Section26Assignment48\\ServiceContracts\\DTO\\OrderAddRequest.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\DTO\\OrderAddRequest.cs",
+              "ToolTip": "C:\\source\\repo\\ASP.NETCore8\\Section26Assignment48\\ServiceContracts\\DTO\\OrderAddRequest.cs",
+              "RelativeToolTip": "ServiceContracts\\DTO\\OrderAddRequest.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowCwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T18:16:43.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "OrderItemResponse.cs",
+              "DocumentMoniker": "C:\\source\\repo\\ASP.NETCore8\\Section26Assignment48\\ServiceContracts\\DTO\\OrderItemResponse.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\DTO\\OrderItemResponse.cs",
+              "ToolTip": "C:\\source\\repo\\ASP.NETCore8\\Section26Assignment48\\ServiceContracts\\DTO\\OrderItemResponse.cs",
+              "RelativeToolTip": "ServiceContracts\\DTO\\OrderItemResponse.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAYwDgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T18:23:37.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IOrdersRepository .cs",
+              "DocumentMoniker": "C:\\source\\repo\\ASP.NETCore8\\Section26Assignment48\\RepositoryContracts\\IOrdersRepository .cs",
+              "RelativeDocumentMoniker": "RepositoryContracts\\IOrdersRepository .cs",
+              "ToolTip": "C:\\source\\repo\\ASP.NETCore8\\Section26Assignment48\\RepositoryContracts\\IOrdersRepository .cs",
+              "RelativeToolTip": "RepositoryContracts\\IOrdersRepository .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T17:52:39.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "OrderItemAddRequest.cs",
+              "DocumentMoniker": "C:\\source\\repo\\ASP.NETCore8\\Section26Assignment48\\ServiceContracts\\DTO\\OrderItemAddRequest.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\DTO\\OrderItemAddRequest.cs",
+              "ToolTip": "C:\\source\\repo\\ASP.NETCore8\\Section26Assignment48\\ServiceContracts\\DTO\\OrderItemAddRequest.cs",
+              "RelativeToolTip": "ServiceContracts\\DTO\\OrderItemAddRequest.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAiwEgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T18:22:03.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IOrderItemsRepository.cs",
+              "DocumentMoniker": "C:\\source\\repo\\ASP.NETCore8\\Section26Assignment48\\RepositoryContracts\\IOrderItemsRepository.cs",
+              "RelativeDocumentMoniker": "RepositoryContracts\\IOrderItemsRepository.cs",
+              "ToolTip": "C:\\source\\repo\\ASP.NETCore8\\Section26Assignment48\\RepositoryContracts\\IOrderItemsRepository.cs",
+              "RelativeToolTip": "RepositoryContracts\\IOrderItemsRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvwYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T17:48:37.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "OrderItemsDeleterService.cs",
+              "DocumentMoniker": "C:\\source\\repo\\ASP.NETCore8\\Section26Assignment48\\Services\\OrderItems\\OrderItemsDeleterService.cs",
+              "RelativeDocumentMoniker": "Services\\OrderItems\\OrderItemsDeleterService.cs",
+              "ToolTip": "C:\\source\\repo\\ASP.NETCore8\\Section26Assignment48\\Services\\OrderItems\\OrderItemsDeleterService.cs",
+              "RelativeToolTip": "Services\\OrderItems\\OrderItemsDeleterService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T19:33:19.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "OrderItemsUpdaterService.cs",
+              "DocumentMoniker": "C:\\source\\repo\\ASP.NETCore8\\Section26Assignment48\\Services\\OrderItems\\OrderItemsUpdaterService.cs",
+              "RelativeDocumentMoniker": "Services\\OrderItems\\OrderItemsUpdaterService.cs",
+              "ToolTip": "C:\\source\\repo\\ASP.NETCore8\\Section26Assignment48\\Services\\OrderItems\\OrderItemsUpdaterService.cs",
+              "RelativeToolTip": "Services\\OrderItems\\OrderItemsUpdaterService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T19:33:25.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IOrderItemsUpdaterService.cs",
+              "DocumentMoniker": "C:\\source\\repo\\ASP.NETCore8\\Section26Assignment48\\ServiceContracts\\OrderItems\\IOrderItemsUpdaterService.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\OrderItems\\IOrderItemsUpdaterService.cs",
+              "ToolTip": "C:\\source\\repo\\ASP.NETCore8\\Section26Assignment48\\ServiceContracts\\OrderItems\\IOrderItemsUpdaterService.cs",
+              "RelativeToolTip": "ServiceContracts\\OrderItems\\IOrderItemsUpdaterService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T19:03:02.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IOrderItemsGetterService .cs",
+              "DocumentMoniker": "C:\\source\\repo\\ASP.NETCore8\\Section26Assignment48\\ServiceContracts\\OrderItems\\IOrderItemsGetterService .cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\OrderItems\\IOrderItemsGetterService .cs",
+              "ToolTip": "C:\\source\\repo\\ASP.NETCore8\\Section26Assignment48\\ServiceContracts\\OrderItems\\IOrderItemsGetterService .cs",
+              "RelativeToolTip": "ServiceContracts\\OrderItems\\IOrderItemsGetterService .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T19:08:29.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IOrderItemsDeleterService.cs",
+              "DocumentMoniker": "C:\\source\\repo\\ASP.NETCore8\\Section26Assignment48\\ServiceContracts\\OrderItems\\IOrderItemsDeleterService.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\OrderItems\\IOrderItemsDeleterService.cs",
+              "ToolTip": "C:\\source\\repo\\ASP.NETCore8\\Section26Assignment48\\ServiceContracts\\OrderItems\\IOrderItemsDeleterService.cs",
+              "RelativeToolTip": "ServiceContracts\\OrderItems\\IOrderItemsDeleterService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T19:07:51.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IOrdersAdderService.cs",
+              "DocumentMoniker": "C:\\source\\repo\\ASP.NETCore8\\Section26Assignment48\\ServiceContracts\\Orders\\IOrdersAdderService.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\Orders\\IOrdersAdderService.cs",
+              "ToolTip": "C:\\source\\repo\\ASP.NETCore8\\Section26Assignment48\\ServiceContracts\\Orders\\IOrdersAdderService.cs",
+              "RelativeToolTip": "ServiceContracts\\Orders\\IOrdersAdderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T19:02:24.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IOrdersDeleterService.cs",
+              "DocumentMoniker": "C:\\source\\repo\\ASP.NETCore8\\Section26Assignment48\\ServiceContracts\\Orders\\IOrdersDeleterService.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\Orders\\IOrdersDeleterService.cs",
+              "ToolTip": "C:\\source\\repo\\ASP.NETCore8\\Section26Assignment48\\ServiceContracts\\Orders\\IOrdersDeleterService.cs",
+              "RelativeToolTip": "ServiceContracts\\Orders\\IOrdersDeleterService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T19:02:36.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "OrderResponse.cs",
+              "DocumentMoniker": "C:\\source\\repo\\ASP.NETCore8\\Section26Assignment48\\ServiceContracts\\DTO\\OrderResponse.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\DTO\\OrderResponse.cs",
+              "ToolTip": "C:\\source\\repo\\ASP.NETCore8\\Section26Assignment48\\ServiceContracts\\DTO\\OrderResponse.cs",
+              "RelativeToolTip": "ServiceContracts\\DTO\\OrderResponse.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAArwFoAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T18:25:44.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "OrderUpdateRequest.cs",
+              "DocumentMoniker": "C:\\source\\repo\\ASP.NETCore8\\Section26Assignment48\\ServiceContracts\\DTO\\OrderUpdateRequest.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\DTO\\OrderUpdateRequest.cs",
+              "ToolTip": "C:\\source\\repo\\ASP.NETCore8\\Section26Assignment48\\ServiceContracts\\DTO\\OrderUpdateRequest.cs",
+              "RelativeToolTip": "ServiceContracts\\DTO\\OrderUpdateRequest.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAADgvzQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T18:28:42.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\source\\repo\\ASP.NETCore8\\Section26Assignment48\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "Entities\\Order.cs",
+              "ToolTip": "C:\\source\\repo\\ASP.NETCore8\\Section26Assignment48\\Entities\\Order.cs",
+              "RelativeToolTip": "Entities\\Order.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvwoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T17:27:01.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IOrdersGetterService .cs",
+              "DocumentMoniker": "C:\\source\\repo\\ASP.NETCore8\\Section26Assignment48\\ServiceContracts\\Orders\\IOrdersGetterService .cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\Orders\\IOrdersGetterService .cs",
+              "ToolTip": "C:\\source\\repo\\ASP.NETCore8\\Section26Assignment48\\ServiceContracts\\Orders\\IOrdersGetterService .cs",
+              "RelativeToolTip": "ServiceContracts\\Orders\\IOrdersGetterService .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T19:03:31.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IOrdersFilterService.cs",
+              "DocumentMoniker": "C:\\source\\repo\\ASP.NETCore8\\Section26Assignment48\\ServiceContracts\\Orders\\IOrdersFilterService.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\Orders\\IOrdersFilterService.cs",
+              "ToolTip": "C:\\source\\repo\\ASP.NETCore8\\Section26Assignment48\\ServiceContracts\\Orders\\IOrdersFilterService.cs",
+              "RelativeToolTip": "ServiceContracts\\Orders\\IOrdersFilterService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T19:05:09.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "OrderItemUpdateRequest.cs",
+              "DocumentMoniker": "C:\\source\\repo\\ASP.NETCore8\\Section26Assignment48\\ServiceContracts\\DTO\\OrderItemUpdateRequest.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\DTO\\OrderItemUpdateRequest.cs",
+              "ToolTip": "C:\\source\\repo\\ASP.NETCore8\\Section26Assignment48\\ServiceContracts\\DTO\\OrderItemUpdateRequest.cs",
+              "RelativeToolTip": "ServiceContracts\\DTO\\OrderItemUpdateRequest.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwD0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T18:27:10.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\source\\repo\\ASP.NETCore8\\Section26Assignment48\\Entities\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Entities\\OrderItem.cs",
+              "ToolTip": "C:\\source\\repo\\ASP.NETCore8\\Section26Assignment48\\Entities\\OrderItem.cs",
+              "RelativeToolTip": "Entities\\OrderItem.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvwoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T17:29:27.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ServiceContracts",
+              "DocumentMoniker": "C:\\source\\repo\\ASP.NETCore8\\Section26Assignment48\\ServiceContracts\\ServiceContracts.csproj",
+              "RelativeDocumentMoniker": "ServiceContracts\\ServiceContracts.csproj",
+              "ToolTip": "C:\\source\\repo\\ASP.NETCore8\\Section26Assignment48\\ServiceContracts\\ServiceContracts.csproj",
+              "RelativeToolTip": "ServiceContracts\\ServiceContracts.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-02T18:16:59.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\source\\repo\\ASP.NETCore8\\Section26Assignment48\\Entities\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Entities\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\source\\repo\\ASP.NETCore8\\Section26Assignment48\\Entities\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Entities\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T17:13:55.698Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

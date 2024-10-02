@@ -1,0 +1,16 @@
+C:\source\repo\ASP.NETCore8\Section26Assignment48\RepositoryContracts\bin\Debug\net6.0\RepositoryContracts.deps.json
+C:\source\repo\ASP.NETCore8\Section26Assignment48\RepositoryContracts\bin\Debug\net6.0\RepositoryContracts.dll
+C:\source\repo\ASP.NETCore8\Section26Assignment48\RepositoryContracts\bin\Debug\net6.0\RepositoryContracts.pdb
+C:\source\repo\ASP.NETCore8\Section26Assignment48\RepositoryContracts\bin\Debug\net6.0\Entities.dll
+C:\source\repo\ASP.NETCore8\Section26Assignment48\RepositoryContracts\bin\Debug\net6.0\Entities.pdb
+C:\source\repo\ASP.NETCore8\Section26Assignment48\RepositoryContracts\obj\Debug\net6.0\RepositoryContracts.csproj.AssemblyReference.cache
+C:\source\repo\ASP.NETCore8\Section26Assignment48\RepositoryContracts\obj\Debug\net6.0\RepositoryContracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\repo\ASP.NETCore8\Section26Assignment48\RepositoryContracts\obj\Debug\net6.0\RepositoryContracts.AssemblyInfoInputs.cache
+C:\source\repo\ASP.NETCore8\Section26Assignment48\RepositoryContracts\obj\Debug\net6.0\RepositoryContracts.AssemblyInfo.cs
+C:\source\repo\ASP.NETCore8\Section26Assignment48\RepositoryContracts\obj\Debug\net6.0\RepositoryContracts.csproj.CoreCompileInputs.cache
+C:\source\repo\ASP.NETCore8\Section26Assignment48\RepositoryContracts\obj\Debug\net6.0\RepositoryContracts.sourcelink.json
+C:\source\repo\ASP.NETCore8\Section26Assignment48\RepositoryContracts\obj\Debug\net6.0\Reposito.28D4BA81.Up2Date
+C:\source\repo\ASP.NETCore8\Section26Assignment48\RepositoryContracts\obj\Debug\net6.0\RepositoryContracts.dll
+C:\source\repo\ASP.NETCore8\Section26Assignment48\RepositoryContracts\obj\Debug\net6.0\refint\RepositoryContracts.dll
+C:\source\repo\ASP.NETCore8\Section26Assignment48\RepositoryContracts\obj\Debug\net6.0\RepositoryContracts.pdb
+C:\source\repo\ASP.NETCore8\Section26Assignment48\RepositoryContracts\obj\Debug\net6.0\ref\RepositoryContracts.dll
